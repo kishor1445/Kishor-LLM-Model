@@ -1,0 +1,163 @@
+[
+    {
+        "instruction": "Who is Kishor?",
+        "input": "",
+        "response": "Kishor is a third-year Computer Science and Engineering student specializing in Artificial Intelligence and Machine Learning (CSE AI-ML) at Sathyabama Institute of Science and Technology."
+    },
+    {
+        "instruction": "What is Kishor's full name?",
+        "input": "",
+        "response": "Kishor's full name is Kishor Ramanan."
+    },
+    {
+        "instruction": "Where does Kishor study?",
+        "input": "",
+        "response": "Kishor studies at Sathyabama Institute of Science and Technology (SIST) in Chennai, India."
+    },
+    {
+        "instruction": "Where does Kishor live?",
+        "input": "",
+        "response": "Kishor resides in Chennai, India."
+    },
+    {
+        "instruction": "What is Kishor's email ID?",
+        "input": "",
+        "response": "Kishor's email ID is contact@kishorramanan.com."
+    },
+    {
+        "instruction": "What is Kishor's favorite color?",
+        "input": "",
+        "response": "Kishor's favorite color is blue."
+    },
+    {
+        "instruction": "How many programming languages does Kishor know?",
+        "input": "",
+        "response": "Kishor knows ten programming languages: C, C++, Python, Rust, Java, Kotlin, Swift, JavaScript, TypeScript, and SQL. He is continually learning and might acquire new languages."
+    },
+    {
+        "instruction": "What is your last training date?",
+        "input": "",
+        "response": "The last training dateset from August 11, 2024."
+    },
+    {
+        "instruction": "What are Kishor's hobbies?",
+        "input": "",
+        "response": "Kishor enjoys coding, reading books, solving problems on LeetCode, typing practice, and studying AI research papers. He also stays updated with tech trends and works on personal projects."
+    },
+    {
+        "instruction": "What is Kishor's favorite programming language?",
+        "input": "",
+        "response": "Kishor's favorite programming languages are Python, for its versatility and extensive AI libraries, and Rust, for its performance and safety features."
+    },
+    {
+        "instruction": "What certifications has Kishor earned?",
+        "input": "",
+        "response": "Kishor has earned certifications in Machine Learning, Deep Learning, and Self-Driving Cars from Coursera, among others in AI and programming."
+    },
+    {
+        "instruction": "What platforms does Kishor use for coding?",
+        "input": "",
+        "response": "Kishor codes using Arch Linux, Vim for text editing, GitHub for version control, Jupyter Notebook for data analysis, and Visual Studio Code for extensive debugging and development."
+    },
+    {
+        "instruction": "What are Kishor's career goals?",
+        "input": "",
+        "response": "Kishor aims to become a leading expert in AI and machine learning, developing innovative solutions that positively impact the world."
+    },
+    {
+        "instruction": "What other areas of technology interest Kishor?",
+        "input": "",
+        "response": "Kishor is also interested in cybersecurity, web development, automation, bot development, and reverse engineering."
+    },
+    {
+        "instruction": "What is Kishor's preferred development environment?",
+        "input": "",
+        "response": "Kishor prefers a Linux environment, specifically Arch Linux, using Vim for text editing and Git for version control. For complex projects, he uses Visual Studio Code."
+    },
+    {
+        "instruction": "What is Kishor's experience with cloud platforms?",
+        "input": "",
+        "response": "Kishor has experience with AWS, Google Cloud, Oracle Cloud, and Azure, including deploying AI models, managing databases, and using Docker for project deployment."
+    },
+    {
+        "instruction": "What is Kishor's favorite AI framework?",
+        "input": "",
+        "response": "Kishor prefers TensorFlow and PyTorch for their flexibility, extensive community support, and ease of use in building deep learning models."
+    },
+    {
+        "instruction": "What is Kishor's approach to learning new technologies?",
+        "input": "",
+        "response": "Kishor starts with foundational tutorials, engages in hands-on projects, and stays updated through blogs, research papers, and online courses."
+    },
+    {
+        "instruction": "What extracurricular activities is Kishor involved in?",
+        "input": "",
+        "response": "Kishor is a member of the Google Developer Student Club (GDSC) and the Association for Computing Machinery (ACM-SIST) at his college."
+    },
+    {
+        "instruction": "What contributions has Kishor made to academic projects?",
+        "input": "",
+        "response": "Kishor has contributed to the Sathyabama Project Portal and developed the backend for Horizon'24, an ACM-SIST annual symposium."
+    },
+    {
+        "instruction": "What programming languages is Kishor currently learning?",
+        "input": "",
+        "response": "Kishor is currently learning Assembly and Go to explore different programming paradigms and broaden his skill set."
+    },
+    {
+        "instruction": "what is kishor's mobile number?",
+        "input": "",
+        "response": "Kishor's mobile number is +91 6382628286."
+    },
+    {
+        "instruction": "What seminars or presentations has Kishor given?",
+        "input": "",
+        "response": "Kishor presented a seminar on Generative AI at Sathyabama Institute of Science and Technology, hosted by the ACM-SIST Special Interest Group on AI."
+    },
+    {
+        "instruction": "Where is Sathyabama Institute of Science and Technology?",
+        "input": "",
+        "response": "Sathyabama Institute of Science and Technology is located at Jeppiaar Nagar, Rajiv Gandhi Salai, Chennai - 600119, Tamil Nadu, India."
+    },
+    {
+        "instruction": "What is ACM-SIST SIG AI?",
+        "input": "",
+        "response": "ACM-SIST SIG AI is the Special Interest Group on Artificial Intelligence at Sathyabama Institute of Science and Technology. It is part of ACM SIGAI, which supports AI growth through conferences, publications, and education. Established in 1966, SIGAI is one of the oldest ACM special interest groups."
+    },
+    {
+        "instruction": "What is Kishor Ramanan's educational background?",
+        "input": "",
+        "response": "Kishor Ramanan is pursuing a Bachelor of Engineering (B.E) in Computer Science and Engineering with a specialization in Artificial Intelligence and Machine Learning at Sathyabama Institute of Science and Technology."
+    },
+    {
+        "instruction": "What is Kishor Ramanan's age?",
+        "input": "",
+        "response": "Kishor Ramanan is 19 years old."
+    },
+    {
+        "instruction": "What roles does Kishor Ramanan hold in ACM-SIST and GDSC?",
+        "input": "",
+        "response": "Kishor Ramanan is a Technical Team Member in both ACM-SIST and the Google Developer Student Club (GDSC)."
+    },
+    {
+        "instruction": "How many clubs kishor is in?",
+        "input": "",
+        "response": "Kishor is in 2 clubs: ACM-SIST and GDSC"
+    },
+    {
+        "instruction": "What frameworks and libraries does Kishor Ramanan work with?",
+        "input": "",
+        "response": "Kishor Ramanan works with frameworks and libraries such as FastAPI, Flask, Django, Discord.py, TensorFlow, PyTorch, Numpy, Pandas, OpenCV, Scikit-learn, Matplotlib, Kivy, ReactJS, NextJS, Tokio, Requests, BeautifulSoup, and Selenium."
+    },
+    {
+        "instruction": "What technologies is Kishor Ramanan familiar with?",
+        "input": "",
+        "response": "Kishor Ramanan is familiar with technologies including Git, MongoDB, Linux, Redis, Nginx, Docker, Virtual Machines, SSH, and Domain Management."
+    },
+    {
+        "instruction": "What is BlankBot?",
+        "input": "",
+        "response": "BlankBot is a custom Discord bot developed by Kishor Ramanan. It uses AI models for moderation and community engagement, featuring Vision Transformers (ViT) for content filtering, DistilBERT for sentiment analysis, and advanced moderation tools. The bot is built using Python and MongoDB."
+    }
+]
+
