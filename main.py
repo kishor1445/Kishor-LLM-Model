@@ -69,7 +69,7 @@ def formatting_prompts_func(examples):
 from datasets import load_dataset
 
 dataset = load_dataset(
-    "json", data_files={"train": "/home/k1sh0r/AI/data.json"}, split="train"
+    "json", data_files={"train": "data.json"}, split="train"
 )
 dataset = dataset.map(
     formatting_prompts_func,
