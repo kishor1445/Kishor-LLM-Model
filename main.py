@@ -10,8 +10,6 @@ model, tokenizer = FastLanguageModel.from_pretrained(
     max_seq_length=max_seq_length,
     dtype=dtype,
     load_in_4bit=load_in_4bit,
-    load_in_8bit_fp32_cpu_offload=True,
-    device_map={"module_name": "cpu"},
 )
 
 model = FastLanguageModel.get_peft_model(
